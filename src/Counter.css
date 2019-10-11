@@ -1,0 +1,29 @@
+.even, .odd {
+    width: 300px;
+      height: 250px;
+      color: white;
+      margin: 50px auto;
+      font-size: 100px;
+      padding: 30px 0px;
+      border-radius: 50%;
+}
+.even {
+    background-color: rgb(212, 27, 172);
+}
+.odd {
+    background-color: turquoise;
+}
+
+.container {
+    text-align: center;
+}
+.container > p {
+    margin-top: 200px;
+    text-align: center;
+}
+button {
+    margin: auto 20px auto 20px;
+    background-color: grey;
+    color: white;
+    
+}
